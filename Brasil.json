@@ -1,0 +1,59 @@
+{
+    "Brasil":{
+        "Regiões":{
+            "Norte":{
+                "Acre":{"Capital":"Rio Branco"},
+                "Amapá":{"Capital":"Macapá"},
+                "Amazonas":{"Capital":"Manaus"},
+                "Pará":{"Capital":"Belém"},
+                "Rondônia":{"Capital":"Porto Velho"},
+                "Roraima":{"Capital":"Boa vista"},
+                "Tocantins":{"Capital":"Palmas"},
+                "Quantidade":7,
+                "Estados":7
+            },
+            "Nordeste":{
+                "Maranhão":{"Capital":"São luís"},
+                "Piauí":{"Capital":"Teresina"},
+                "Ceará":{"Capital":"Fortaleza"},
+                "Rio grande do norte":{"Capital":"Natal"},
+                "Paraíba":{"Capital":"João Pessoa"},
+                "Pernambuco":{"Capital":"Recife"},
+                "Alagoas":{"Capital":"Maceió"},
+                "Sergipe":{"Capital":"Aracaju"},
+                "Bahia":{"Capital":"Salvador"},
+                "Quantidade":9,
+                "Estados":9
+            },
+            "Sul":{
+                "Paraná":{"Capital":"Curitiba"},
+                "Santa Catarina":{"Capital":"Florianópolis"},
+                "Rio grande do sul":{"Capital":"Porto alegre"},
+                "Quantidade":3,
+                "Estados":3
+            },
+            "Suldeste":{
+                "Minas gerais":{"Capital":"Belo Horizonte"},
+                "Espírito Santo":{"Capital":"Vitória"},
+                "Rio de Janeiro":{"Capital":"Rio de janeiro"},
+                "São Paulo":{"Capital":"São paulo"},
+                "Quantidade":4,
+                "Estados":4
+            },
+            "Centro-oeste":{
+                "Mato grosso":{"Capital":"Cuiabá"},
+                "Goiás":{"Capital":"Goiânia"},
+                "Distrito Federal":{"Capital":"Brasília"},
+                "Mato grosso do sul":{"Capital":"Campo Grande"},
+                "Quantidade":4,
+                "Estados":3
+            },
+            "Quantidade":5
+        },
+        "Sila":"BR",
+        "Moeda":"Real",
+        "Capital":"Brasília",
+        "Estados":26
+
+    }
+}
